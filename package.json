@@ -1,0 +1,34 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "To do Activities",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viveksekar63/todolist.git"
+  },
+  "keywords": [
+    "Todo",
+    "Activies"
+  ],
+  "author": "vivekanandan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viveksekar63/todolist/issues"
+  },
+  "homepage": "https://github.com/viveksekar63/todolist#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.13",
+    "path": "^0.12.7",
+    "validatorjs": "^3.18.1"
+  }
+}
